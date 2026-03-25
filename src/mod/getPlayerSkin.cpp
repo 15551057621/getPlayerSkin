@@ -1,4 +1,4 @@
-#include "mod/getSkin.h"
+#include "mod/getPlayerSkin.h"
 #include "ll/api/mod/RegisterHelper.h"
 #include "ll/api/memory/Hook.h"
 #include "mc/network/packet/PlayerSkinPacket.h"
